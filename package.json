@@ -1,0 +1,14 @@
+{
+  "name": "idamdevbot",
+  "version": "1.0.0",
+  "description": "IdamDevBot is a Telegram Bot using BotFather",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Idam",
+  "license": "ISC",
+  "dependencies": {
+    "telegraf": "^3.38.0"
+  }
+}
